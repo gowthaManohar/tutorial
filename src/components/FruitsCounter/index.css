@@ -1,0 +1,46 @@
+.bg-container {
+  background-color: #ffd569;
+
+  padding: 50px;
+}
+.fruits-card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  align-items: center;
+}
+.fruitshead {
+  font-size: 30px;
+  color: black;
+  font-weight: bold;
+}
+.fruits-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.fruitimg {
+  width: 100px;
+  margin-bottom: 40px;
+}
+.fruit {
+  display: flex;
+  flex-direction: column;
+  margin-right: 40px;
+}
+.button {
+  width: 100px;
+  padding: 10px;
+  color: white;
+  background-color: blue;
+  border-radius: 10px;
+}
+.span {
+  color: pink;
+  font-size: 40px;
+}
